@@ -2,7 +2,10 @@
 python web app. with flask and mysql
 
 database : mysql
-framework : flask
+
+framework : django
+
+template : react
 
 Tutorial : 
 https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
