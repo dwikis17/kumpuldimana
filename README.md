@@ -1,16 +1,27 @@
 # kumpuldimana
 python web app. with flask and mysql
 
+backend : python
+
 database : mysql
 
-framework : django
+framework : django (single web app page)
 
-template : react
+frontend template : react
+
+html/css : bootstrap
+template : bootswatch
 
 Tutorial : 
+1. HTML/CSS : https://www.youtube.com/watch?v=5GcQtLDGXy8
+
 https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 https://www.reddit.com/r/learnpython/comments/2lk6lj/how_to_implement_a_web_calendar/
+
+https://www.youtube.com/watch?v=zYHv6U86X0Y
+
+HTML cheat sheet : http://www.simplehtmlguide.com/cheatsheet.php
 
 
 features :
