@@ -3,9 +3,20 @@ python web app. with flask and mysql
 
 backend : python
 
-database : mysql
+database : postgresql
+
+      command line :
+      - /q %quit
+      in app command :
+      CREATE TABLE <name_table> ( <name_col> <DATA_TYPE> )
+      
 
 framework : django (single web app page)
+
+      - command line : django-admin startproject <nama>
+      - python3 manage.py runserver
+      - python3 manage.py startapp <name>
+      - 
 
 frontend template : react
 
