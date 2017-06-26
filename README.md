@@ -31,6 +31,6 @@ features :
 
 # function flow:
 1. input nama
-2. select Map (daerah)
+2. select Map (daerah) https://www.wired.com/2014/07/a-drag-and-drop-toolkit-that-lets-anyone-create-interactive-maps/
 3. select range waktu.
 ..... %TODO
