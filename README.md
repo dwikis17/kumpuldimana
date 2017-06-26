@@ -15,10 +15,7 @@ features :
 
 - poling berdasarkan :
       1. Kota
-      2. Waktu 
-      https://github.com/Serhioromano/bootstrap-calendar
-      https://fullcalendar.io/
-
+      2. Waktu https://github.com/Serhioromano/bootstrap-calendar https://fullcalendar.io/
       3. Nama Voter
       4. jenis : resto, cafe, other(cinema dll.)
       
