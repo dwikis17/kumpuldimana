@@ -14,6 +14,9 @@ features :
 - doodle like webapp
 
 - poling berdasarkan :
+
+
+
       1. Kota
       2. Waktu https://github.com/Serhioromano/bootstrap-calendar https://fullcalendar.io/
       3. Nama Voter
