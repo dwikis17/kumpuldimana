@@ -33,6 +33,8 @@ frontend template : react
 html/css : bootstrap
 template : bootswatch
 
+date : https://www.reddit.com/r/reactjs/comments/4yhk9a/airbnb_open_source_react_date_picker/
+
 Tutorial : 
 1. HTML/CSS : https://www.youtube.com/watch?v=5GcQtLDGXy8
 
