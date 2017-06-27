@@ -16,7 +16,17 @@ framework : django (single web app page)
       - command line : django-admin startproject <nama>
       - python3 manage.py runserver
       - python3 manage.py startapp <name>
-      - 
+      - python3 manage.py migrate %add data to database
+      - python3 manage.py makemigrations <name_of_app> %make model in /app/migrations
+      - python3 manage.py sqlmigrate <app_name> 0001
+      - python3 manage.py check %this checks for any problems in your project without making migrations or touching the database.
+      - python3 manage.py createsuperuser
+      
+      
+Making Model change: 
+1. Change your models (in models.py).
+2. Run python manage.py makemigrations to create migrations for those changes
+3. Run python manage.py migrate to apply those changes to the database.
 
 frontend template : react
 
